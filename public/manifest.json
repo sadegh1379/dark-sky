@@ -1,0 +1,15 @@
+{
+    "short_name" : "Dark Sky",
+    "name" : "Dark Sky",
+    "icons" : [
+        {
+            "src": "./logo512.png",
+            "type" : "./png",
+            "sizes" : "1024 * 1024"
+        }
+    ],
+    "start_url" : ".",
+    "display" : "standalone",
+    "theme_color" : "#000000",
+    "background_color" : "#ffffff" 
+}

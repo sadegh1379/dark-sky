@@ -1,0 +1,37 @@
+@font-face {
+  font-family: myFirstFont;
+  src: url('./Components/font/BYekan.ttf') ;
+  src: url('./Components/font/BYekan.eot') ;
+  src: url('./Components/font/BYekan.woff') ;
+  font-weight: bold;
+}
+  
+*{
+    font-family: myFirstFont;
+    /* font-size: 15px; */
+  }
+*:focus{
+  outline: 0;
+  outline-style: 0;
+  
+}
+
+  html , body , #root{
+    font: 0.9rem ;
+    background: #1d1a1b;
+    color:#0b0b0c;
+    height: 100%;
+    
+    margin: 0;
+    font-family: myFirstFont;
+    text-align: center;
+  }
+
+  .navbar-link{
+    color:black;
+    text-decoration-line: none;
+    text-decoration: none;
+    
+  }
+
+ 
